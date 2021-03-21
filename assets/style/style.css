@@ -6,3 +6,10 @@ body {
 img {
     height: 200px;
 }
+
+button {
+    border-radius: 15%;
+    font-style: bold;
+    color: #B22222;
+    background-color: #FFFFF0;
+}
